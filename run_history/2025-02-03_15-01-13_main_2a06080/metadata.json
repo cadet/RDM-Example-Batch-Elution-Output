@@ -1,0 +1,13 @@
+{
+  "Output repo commit message": "Trying out new things; ",
+  "Output repo branch": "2025-02-03_15-01-13_main_2a06080",
+  "Output repo commit hash": "9ed48b3584cf642e346e96a29a3d1ba1053a3385",
+  "Project repo commit hash": "2a06080972ba428bfe88e9d7cd3bd5b161a9084e",
+  "Project repo folder name": "Example_2",
+  "Project repo remotes": [
+    "git@github.com:katharinapaul2403/CADET_rdm_example2.git"
+  ],
+  "Python sys args": "['main.py']",
+  "Tags": "",
+  "Options hash": "xsacyrswdex3ed1c0765224ke794n865"
+}
