@@ -1,0 +1,13 @@
+{
+  "Output repo commit message": "Run study; ",
+  "Output repo branch": "2025-03-28_16-04-44_main_832b1da",
+  "Output repo commit hash": "efc5883c7a1cf1ff1e251c63b6d3a5c0d06ec0b5",
+  "Project repo commit hash": "832b1dac9b0cca26df6221a062d5874eb0cef750",
+  "Project repo folder name": "RDM-Example-Batch-Elution",
+  "Project repo remotes": [
+    "git@github.com:cadet/RDM-Example-Batch-Elution.git"
+  ],
+  "Python sys args": "['']",
+  "Tags": "",
+  "Options hash": "xsacyrswdex3ed1c0765224ke794n865"
+}
