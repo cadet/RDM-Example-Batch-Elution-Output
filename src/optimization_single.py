@@ -6,7 +6,7 @@
 #       extension: .py
 #       format_name: percent
 #       format_version: '1.3'
-#       jupytext_version: 1.16.7
+#       jupytext_version: 1.17.1
 #   kernelspec:
 #     display_name: Python 3 (ipykernel)
 #     language: python
@@ -26,7 +26,7 @@
 from CADETProcess.optimization import OptimizationProblem
 optimization_problem = OptimizationProblem('batch_elution_single')
 
-from examples.batch_elution.process import process
+from process import process
 optimization_problem.add_evaluation_object(process)
 
 optimization_problem.add_variable('cycle_time', lb=10, ub=600)
